@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" height="40"/> My name is Felipe Rodrigues and my nickname is fehenriq!
+### My name is Felipe Rodrigues and my nickname is fehenriq!
 
 ### Back-end:
 
