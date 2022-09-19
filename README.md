@@ -21,10 +21,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
           
-<div>
 <a href="https://github.com/fehenriq">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&theme=dracula" />
+</a>
 
 ### Contact:
 
