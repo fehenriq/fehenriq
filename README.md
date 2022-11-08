@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/> 
 </div>
 
+&nbsp;
+
 <div>
   <a href="https://github.com/fehenriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=7&theme=dracula&hide=cython,cpp,python"/>
