@@ -1,11 +1,11 @@
 <div align="center">
-  <h1> 👋 Hello! Welcome to my GitHub profile. </h1>
+  <h1>🌎 Hello world! Welcome to my GitHub profile. </h1>
   <img src="./octocat.png" width='250px'/>
-  <h2> My name is Felipe Rodrigues! </h2>
-  <h3> I'm a Brazilian developer, currently studying React and Django </h3>
+  <h2>🧑‍💻 My name is Felipe Rodrigues! </h2>
+  <h3>🇧🇷 I'm a Brazilian developer, currently studying React and Django </h3>
 </div>
 
-<h3>Back-end:</h3>
+<h3>⚙️ Back-end:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
 </div>
 
-<h3>Front-end:</h3>
+<h3>🎨 Front-end:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40" height="40"/>
 </div>
 
-<h3>IDEs, Tools and Cloud:</h3>
+<h3>🛠️ Tools:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> 
