@@ -15,9 +15,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 
-<a href="https://github.com/fehenriq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&show_icons=true&theme=dracula&hide=cython,cpp,python" />
-</a>
+<div>
+  <a href="https://github.com/fehenriq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=7&theme=dracula&hide=cython,cpp,python"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehenriq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Contato:
 
