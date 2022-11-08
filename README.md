@@ -51,7 +51,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=7&theme=dracula&hide=cython,cpp,python"/>
 </div>
 
-<h3>Contact:</h3>
+<h3>📞 Contact:</h3>
 
 <div>
   <a href="https://instagram.com/fe_henriq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
