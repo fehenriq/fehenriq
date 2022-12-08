@@ -51,7 +51,7 @@
 
 <div>
   <a href="https://github.com/fehenriq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=7&theme=dracula&hide=cython,cpp,python"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=7&theme=dracula&hide=cython"/>
 </div>
 
 <h3>📞 Contact:</h3>
