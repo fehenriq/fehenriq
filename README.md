@@ -52,6 +52,8 @@
 <div>
   <a href="https://github.com/fehenriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=8&theme=dracula&hide=cython"/>
+    
+  [![GitHub Streak](https://streak-stats.demolab.com?user=fehenriq&theme=horizon)](https://git.io/streak-stats)
 </div>
 
 <h3>📞 Contact:</h3>
