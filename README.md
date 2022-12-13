@@ -39,7 +39,6 @@
 <h3 align="center">💻 Others:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> 
@@ -52,6 +51,8 @@
 <div align="center">
   <a href="https://github.com/fehenriq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=8&theme=dracula&hide=cython"/>
+    
+  &nbsp;
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=fehenriq&theme=horizon)](https://git.io/streak-stats)
 </div>
