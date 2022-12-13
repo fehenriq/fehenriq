@@ -1,8 +1,8 @@
 <div align="center">
   <h1>🌎 Hello world! Welcome to my GitHub profile. </h1>
   <img src="./octocat.png" width='250px'/>
-  <h2>🧑‍💻 My name is Felipe Rodrigues! </h2>
-  <h3>🇧🇷 I'm a Brazilian developer, currently studying React and Django </h3>
+  <h2>🧑 My name is Felipe Rodrigues! </h2>
+  <h3>💻 I'm a Brazilian developer, currently studying React and Django </h3>
 </div>
 
 <h3 align="center">⚙️ Back-end:</h3>
