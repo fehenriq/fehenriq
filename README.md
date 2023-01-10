@@ -1,8 +1,30 @@
 <div align="center">
   <h1>🌎 Hello world! Welcome to my GitHub profile. </h1>
   <img src="./octocat.png" width='250px'/>
-  <h2>🧑 My name is Felipe Rodrigues! </h2>
-  <h3>💻 I'm a Brazilian developer, currently studying React and Django </h3>
+  ```py
+  class FeHenriq:
+    def __init__(self, full_name, age, stack):
+      self._full_name = full_name
+      self._age = age
+      self._stack = stack
+
+    def __str__(self):
+      return (
+        self._full_name + 
+        str(self._age) + 
+        str(self._stack)
+      )
+
+  fehenriq = FeHenriq(
+    "Felipe Henrique Rodrigues", 21,
+    {
+      "Backend": "Python, Django, PostgreSQL",  
+      "Frontend": "Typescript, React, MaterialUI"
+    }
+  )
+
+  print(fehenriq)   
+  ```
 </div>
 
 <h3 align="center">⚙️ Back-end:</h3>
