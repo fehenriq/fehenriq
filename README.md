@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.django-rest-framework.org%2F&psig=AOvVaw0K_E1TrQRRzpuCCZsD5_9y&ust=1680722956612000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDAuIr7kP4CFQAAAAAdAAAAABAD)" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.django-rest-framework.org%2F&psig=AOvVaw0K_E1TrQRRzpuCCZsD5_9y&ust=1680722956612000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDAuIr7kP4CFQAAAAAdAAAAABAD" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
