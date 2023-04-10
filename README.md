@@ -1,11 +1,11 @@
-<div align="center">
+<div>
   <h1>🌎 Hello world! Welcome to my GitHub profile. </h1>
   <h2>🧑 My name is Felipe Rodrigues! </h2>
   <h3>💻 I'm a Brazilian developer, currently studying Django </h3>
 </div>
 
-<h3 align="center">⚙️ Back-end:</h3>
-<div align="center">
+<h3>⚙️ Back-end:</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
@@ -15,8 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40px" height="40px"/>
 </div>
 
-<h3 align="center">🎨 Front-end:</h3>
-<div align="center">
+<h3>🎨 Front-end:</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
@@ -27,16 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=40px heigth=40px/>
 </div>
 
-<h3 align="center">👨‍🔬 Data Science:</h3>
-<div align="center">
+<h3>👨‍🔬 Data Science:</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </div>
 
-<h3 align="center">💻 Others:</h3>
-<div align="center">
+<h3>💻 Others:</h3>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
@@ -46,8 +46,8 @@
 
 &nbsp;
 
-<div align="center">
-  <a href="https://github.com/fehenriq">
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehenriq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehenriq&layout=compact&langs_count=8&theme=dracula&hide=cython"/>
     
   &nbsp;
@@ -55,9 +55,9 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=fehenriq&theme=horizon)](https://git.io/streak-stats)
 </div>
 
-<h3 align="center">📞 Contact:</h3>
+<h3>📞 Contact:</h3>
 
-<div align="center">
+<div>
   <a href="https://instagram.com/fe_henriq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lipe.h.r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fehenriq-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
