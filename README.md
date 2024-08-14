@@ -15,7 +15,7 @@
 <h3>📚 Frameworks and Libraries</h3>
 <div>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST">
+  <img src="https://img.shields.io/badge/DJANGO-NINJA-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=black" alt="Django Nija">
 </div>
 
 <h3>💻 IDEs/Editors</h3>
