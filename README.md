@@ -1,10 +1,10 @@
 <div>
-  <h1>🌎 Hello world! Welcome to my GitHub profile. </h1>
-  <h2>🧑 My name is Felipe Rodrigues! </h2>
-  <h3>💻 I'm a Brazilian developer, currently studying Python </h3>
+  <h1>👋 Olá! Seja bem-vindo ao meu perfil GitHub</h1>
+  <h2>🧑 Meu nome é Felipe Rodrigues, Tech Lead especializado em desenvolvimento backend e arquitetura de sistemas</h2>
+  <p>Atualmente lidero projetos web focados em Django, Next.js, e automações em Google Sheets, aplicando metodologias ágeis para entregar soluções escaláveis e de alta performance. Busco sempre garantir a qualidade e a otimização em cada etapa do processo de desenvolvimento.</p>
 </div>
 
-<h3>🧑‍💻 Languages</h3>
+<h3>🧑‍💻 Linguagens</h3>
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -12,49 +12,42 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </div>
 
-<h3>📚 Frameworks and Libraries</h3>
+<h3>📚 Frameworks e Bibliotecas</h3>
 <div>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/DJANGO-NINJA-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=black" alt="Django Nija">
+  <img src="https://img.shields.io/badge/DJANGO-NINJA-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=black" alt="Django Ninja">
+  <img src="https://img.shields.io/badge/react-%230d8cff.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </div>
 
-<h3>💻 IDEs/Editors</h3>
-<div>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
-</div>
-
-<h3>💾 Databases</h3>
+<h3>💾 Bancos de Dados</h3>
 <div>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </div>
 
-<h3>🕗 Version Control</h3>
-<div>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
-
-<h3>🐧🪟 Operating System</h3>
-<div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-<h3>☁️ Cloud </h3>
+<h3>☁️ Cloud</h3>
 <div>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </div>
 
-<h3>🥅 Other</h3>
+<h3>💼 Ferramentas</h3>
 <div>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"> 
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Sheets">
+  <img src="https://img.shields.io/badge/CLICKUP-ff1709?style=for-the-badge&color=fff&labelColor=black" alt="ClickUp">
 </div>
+
+<h3>🚀 Projetos</h3>
+<ul>
+  <li>Liderança de times em soluções escaláveis utilizando Django REST Framework e Next.js</li>
+  <li>Integrações com APIs de sistemas ERP (ex: OMIE, RD Station CRM, ClickUp, Clockify).</li>
+  <li>Otimização de performance com PgBouncer e AWS para gerenciar conexões simultâneas.</li>
+  <li>Desenvolvimento de dashboards para visualização de dados e relatórios em tempo real.</li>
+</ul>
 
 &nbsp;
 
@@ -64,13 +57,12 @@
 
   &nbsp;
 
-<img src="https://streak-stats.demolab.com?user=fehenriq&theme=horizon" alt="GitHub Streak">
-
+  <img src="https://streak-stats.demolab.com?user=fehenriq&theme=horizon" alt="GitHub Streak">
 </div>
 
-<h3>📞 Contact:</h3>
-
+<h3>📞 Contato</h3>
 <div>
   <a href="https://instagram.com/fe_henriq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:lipe.h.r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fehenriq-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br></div>
+  <a href="https://www.linkedin.com/in/fehenriq-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
