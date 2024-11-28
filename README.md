@@ -44,7 +44,7 @@
 <h3>🚀 Projetos</h3>
 <ul>
   <li>Liderança de times em soluções escaláveis utilizando Django REST Framework e Next.js</li>
-  <li>Integrações com APIs de sistemas ERP (ex: OMIE, RD Station CRM, ClickUp, Clockify).</li>
+  <li>Integrações com APIs (ex: OMIE, RD Station CRM, ClickUp, Clockify, Pagar.Me).</li>
   <li>Otimização de performance com PgBouncer e AWS para gerenciar conexões simultâneas.</li>
   <li>Desenvolvimento de dashboards para visualização de dados e relatórios em tempo real.</li>
 </ul>
