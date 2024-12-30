@@ -1,6 +1,6 @@
 <div>
   <h1>👋 Olá! Seja bem-vindo ao meu perfil GitHub</h1>
-  <h2>🧑 Meu nome é Felipe Rodrigues, Tech Lead especializado em desenvolvimento backend e arquitetura de sistemas</h2>
+  <h2>🧑 Meu nome é Felipe Rodrigues, especialista em Python e arquitetura de sistemas</h2>
   <p>Atualmente lidero projetos web focados em Django, Next.js, e automações em Google Sheets, aplicando metodologias ágeis para entregar soluções escaláveis e de alta performance. Busco sempre garantir a qualidade e a otimização em cada etapa do processo de desenvolvimento.</p>
 </div>
 
